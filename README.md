@@ -1,1 +1,6 @@
 # mooncode
+
+A startup Myhelper surgiu com a intenção de de otimizar o seu dia a dia, segundo estudos projeto de vida bem planejados apresentam uma maior taxa de sucesso na conclusão de suas metas, com o surgimento da pandemia muitas pessoas também procuraram se planejar melhor financeiramente, porém muitas delas não sabem por onde começar e como
+ O  Myhelper vem como uma solução para diversas organizações como financeira, acadêmica e até mesmo de sua rotina, é importante ter organização pessoal mesmo na empresa para assim garantir produtividade e bom desempenho nas tarefas.  O aplicativo irá unificar todos os aplicativos de organização em um único app servindo como um facilitador.
+O app também irá possuir um plano premium, onde o usuário poderá pagar uma taxa semanal, mensal ou anual. Com a premium do aplicativo o usuário terá acesso a planilhas mais detalhadas, relatórios diários, semanais e mensais e poderá contar com o suporte de especialistas em diversas áreas para obter uma maior desempenho em sua vida.
+ Concluindo pessoas com uma melhor organização de sua vida obtém melhor desempenho acadêmico, empresarial e financeiro assim atingindo seus objetivos de um modo mais otimizado e de uma melhor maneira. 

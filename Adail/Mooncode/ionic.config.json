@@ -1,0 +1,7 @@
+{
+  "name": "Mooncode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

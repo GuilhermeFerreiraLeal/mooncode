@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Academico</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="bg-color">
+  <ion-datetime></ion-datetime>
+  <ion-item>
+    <ion-label>
+      <ion-input>Materias</ion-input>
+    </ion-label>
+  </ion-item>
+  
+  <ion-row>
+    <ion-col size="6">
+      <ion-button color="dark" expand="full" fill="outline">Prova</ion-button>
+    </ion-col>
+    <ion-col>
+      <ion-button color="dark" expand="full" fill="outline">Trabalho</ion-button>
+    </ion-col>
+  </ion-row>
+  <ion-button [routerLink]="['/home']" color="dark" expand="full" fill="outline">Menu</ion-button>
+</ion-content>
